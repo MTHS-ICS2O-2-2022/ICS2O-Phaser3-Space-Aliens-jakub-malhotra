@@ -1,11 +1,12 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10856801)
 # ICS2O ⇢ Phaser3 Space Aliens
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10856801)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Phaser3-Space-Aliens-jakub-malhotra/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Phaser3-Space-Aliens-jakub-malhotra/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+[![Deploy Pages](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Phaser3-Space-Aliens-jakub-malhotra/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICS2O-2-2022/ICS2O-Phaser3-Space-Aliens-jakub-malhotra/actions)
+
+This site can be found at: [https://MTHS-ICS2O-2-2022.github.io/ICS2O-Phaser3-Space-Aliens-jakub-malhotra](https://MTHS-ICS2O-2-2022.github.io/ICS2O-Phaser3-Space-Aliens-jakub-malhotra)
 
 ---
 
