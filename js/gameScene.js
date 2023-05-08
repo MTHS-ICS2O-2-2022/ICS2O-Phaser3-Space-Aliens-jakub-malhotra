@@ -69,7 +69,8 @@ class GameScene extends Phaser.Scene {
         this.ship.x = 0
       }
     }
-        if (keyRightObj.isDown === true) {
+
+    if (keyRightObj.isDown === true) {
       this.ship.x += 15
       if (this.ship.x > 1920) {
         this.ship.x = 1920
