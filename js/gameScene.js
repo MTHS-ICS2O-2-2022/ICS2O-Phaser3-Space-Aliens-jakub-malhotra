@@ -2,8 +2,8 @@
 
 // Copyright (c) 2020 Mr. Coxall All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Jakub Malhotra
+// Created on: May 2023
 // This is the Game Scene
 
 class GameScene extends Phaser.Scene {
