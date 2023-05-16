@@ -100,6 +100,7 @@ class GameScene extends Phaser.Scene {
         this.physics.pause()
         alienCollide.destroy()
         shipCollide.destroy()
+        this.score = 0
         this.gameOverText = this.add
           .text(
             1920 / 2,
